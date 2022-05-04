@@ -1,0 +1,200 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TankGaugeProtocol/1.0.0": {
+        "dependencies": {
+          "System.IO.Ports": "4.6.0-preview7.19362.9",
+          "TankGaugeManagement": "1.0.0.0"
+        },
+        "runtime": {
+          "TankGaugeProtocol.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/3.0.0-preview7.19362.9": {},
+      "Microsoft.Win32.Registry/4.6.0-preview7.19362.9": {
+        "dependencies": {
+          "System.Security.AccessControl": "4.6.0-preview7.19362.9",
+          "System.Security.Principal.Windows": "4.6.0-preview7.19362.9"
+        }
+      },
+      "runtime.linux-arm.runtime.native.System.IO.Ports/4.6.0-preview7.19362.9": {
+        "runtimeTargets": {
+          "runtimes/linux-arm/native/System.IO.Ports.Native.so": {
+            "rid": "linux-arm",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "runtime.linux-arm64.runtime.native.System.IO.Ports/4.6.0-preview7.19362.9": {
+        "runtimeTargets": {
+          "runtimes/linux-arm64/native/System.IO.Ports.Native.so": {
+            "rid": "linux-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "runtime.linux-x64.runtime.native.System.IO.Ports/4.6.0-preview7.19362.9": {
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/System.IO.Ports.Native.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "runtime.native.System.IO.Ports/4.6.0-preview7.19362.9": {
+        "dependencies": {
+          "runtime.linux-arm.runtime.native.System.IO.Ports": "4.6.0-preview7.19362.9",
+          "runtime.linux-arm64.runtime.native.System.IO.Ports": "4.6.0-preview7.19362.9",
+          "runtime.linux-x64.runtime.native.System.IO.Ports": "4.6.0-preview7.19362.9",
+          "runtime.osx-x64.runtime.native.System.IO.Ports": "4.6.0-preview7.19362.9"
+        }
+      },
+      "runtime.osx-x64.runtime.native.System.IO.Ports/4.6.0-preview7.19362.9": {
+        "runtimeTargets": {
+          "runtimes/osx-x64/native/System.IO.Ports.Native.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "System.IO.Ports/4.6.0-preview7.19362.9": {
+        "dependencies": {
+          "Microsoft.Win32.Registry": "4.6.0-preview7.19362.9",
+          "runtime.native.System.IO.Ports": "4.6.0-preview7.19362.9"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.IO.Ports.dll": {
+            "assemblyVersion": "4.0.2.0",
+            "fileVersion": "4.700.19.36209"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux/lib/netstandard2.0/System.IO.Ports.dll": {
+            "rid": "linux",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.2.0",
+            "fileVersion": "4.700.19.36209"
+          },
+          "runtimes/osx/lib/netstandard2.0/System.IO.Ports.dll": {
+            "rid": "osx",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.2.0",
+            "fileVersion": "4.700.19.36209"
+          },
+          "runtimes/win/lib/netstandard2.0/System.IO.Ports.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.2.0",
+            "fileVersion": "4.700.19.36209"
+          }
+        }
+      },
+      "System.Security.AccessControl/4.6.0-preview7.19362.9": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.0.0-preview7.19362.9",
+          "System.Security.Principal.Windows": "4.6.0-preview7.19362.9"
+        }
+      },
+      "System.Security.Principal.Windows/4.6.0-preview7.19362.9": {},
+      "TankGaugeManagement/1.0.0.0": {
+        "runtime": {
+          "TankGaugeManagement.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TankGaugeProtocol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/3.0.0-preview7.19362.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gc5/X1m73JO8ETxOHC3IbgM7JRa7LPsSY+/lVs88YGwKn0QYuU568EmpC8yPk9UKaAOq+82PWG61vFcXdNfsvQ==",
+      "path": "microsoft.netcore.platforms/3.0.0-preview7.19362.9",
+      "hashPath": "microsoft.netcore.platforms.3.0.0-preview7.19362.9.nupkg.sha512"
+    },
+    "Microsoft.Win32.Registry/4.6.0-preview7.19362.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rxZdNfi26qQc5gRrVzuuzg/DJoKrUi5PneoQSCHUIOvnm2owYlstkPKOfABvLbufa2KfBPlsetU09d+Ow5f3Ww==",
+      "path": "microsoft.win32.registry/4.6.0-preview7.19362.9",
+      "hashPath": "microsoft.win32.registry.4.6.0-preview7.19362.9.nupkg.sha512"
+    },
+    "runtime.linux-arm.runtime.native.System.IO.Ports/4.6.0-preview7.19362.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZzcydBdSE8AqDZeXYcReMBJdM91vKmRTXvtOarzo6Qso8l1dH+GUqN9imnXy+JjZfIr0IKWoGZm1l/j+0IuWFw==",
+      "path": "runtime.linux-arm.runtime.native.system.io.ports/4.6.0-preview7.19362.9",
+      "hashPath": "runtime.linux-arm.runtime.native.system.io.ports.4.6.0-preview7.19362.9.nupkg.sha512"
+    },
+    "runtime.linux-arm64.runtime.native.System.IO.Ports/4.6.0-preview7.19362.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9PSCQxXloEFT3SidwPjqHhXOsoIIn/rTJsxq8UomvGKKYC0Fnpqv1QfAXi5vqqhs9RfQNPbf2zuKJ+T/Py4NRg==",
+      "path": "runtime.linux-arm64.runtime.native.system.io.ports/4.6.0-preview7.19362.9",
+      "hashPath": "runtime.linux-arm64.runtime.native.system.io.ports.4.6.0-preview7.19362.9.nupkg.sha512"
+    },
+    "runtime.linux-x64.runtime.native.System.IO.Ports/4.6.0-preview7.19362.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OPO9oK256rqWxwUIYgf6I5cVG1gurVUlABBVK6CwRCoqtoM06KGXYDxFEbucvPHN+hgUfCzyLs9gsm+/ZcTT7w==",
+      "path": "runtime.linux-x64.runtime.native.system.io.ports/4.6.0-preview7.19362.9",
+      "hashPath": "runtime.linux-x64.runtime.native.system.io.ports.4.6.0-preview7.19362.9.nupkg.sha512"
+    },
+    "runtime.native.System.IO.Ports/4.6.0-preview7.19362.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-w9q0hwV46gWfPb7drWULExmrJRsHJU+GekGbLKFswGauHgSxFPILDWjtnZSmzDk3dFMgCTjNyHvkxBEX/Bt3xg==",
+      "path": "runtime.native.system.io.ports/4.6.0-preview7.19362.9",
+      "hashPath": "runtime.native.system.io.ports.4.6.0-preview7.19362.9.nupkg.sha512"
+    },
+    "runtime.osx-x64.runtime.native.System.IO.Ports/4.6.0-preview7.19362.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tjsTcGsgyFbhANFioI24+ht55UxWwIatWz6gPhMwMr5k5444dSzVS5SVdpXr4n+Flt7i/aD0UUaIf73SPH04aA==",
+      "path": "runtime.osx-x64.runtime.native.system.io.ports/4.6.0-preview7.19362.9",
+      "hashPath": "runtime.osx-x64.runtime.native.system.io.ports.4.6.0-preview7.19362.9.nupkg.sha512"
+    },
+    "System.IO.Ports/4.6.0-preview7.19362.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bO6ZKehU5HULdbd1b6+cHYluXBxXdw9cc/wT7UgksY86WGfe6JdbQpu81/doCzrfs1fGjLw1ahAxP4lDv1JWtw==",
+      "path": "system.io.ports/4.6.0-preview7.19362.9",
+      "hashPath": "system.io.ports.4.6.0-preview7.19362.9.nupkg.sha512"
+    },
+    "System.Security.AccessControl/4.6.0-preview7.19362.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Y0TBqhQ2SRUNp5OlZtgbCtHODSYX5UuzydLZsgMlA79eks2QHvC1Yj2eXOw1GLB9oy9Ho4UpgJExYfGpbfQyhg==",
+      "path": "system.security.accesscontrol/4.6.0-preview7.19362.9",
+      "hashPath": "system.security.accesscontrol.4.6.0-preview7.19362.9.nupkg.sha512"
+    },
+    "System.Security.Principal.Windows/4.6.0-preview7.19362.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BVnMnd3YAJQnxzfnJLqsWCRsROJzaF8OF9Y5rd4feESwkXHbaHzgX/9ZnQjhyDMqE8JHpmrlbBJLJRY2nCTN5w==",
+      "path": "system.security.principal.windows/4.6.0-preview7.19362.9",
+      "hashPath": "system.security.principal.windows.4.6.0-preview7.19362.9.nupkg.sha512"
+    },
+    "TankGaugeManagement/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

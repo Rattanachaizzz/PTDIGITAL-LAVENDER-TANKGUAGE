@@ -1,0 +1,195 @@
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\TankGaugeManagement.exe
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\Shared\TankGaugeProtocol.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\ConnString.json
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\TankGaugeManagement.deps.json
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\TankGaugeManagement.runtimeconfig.json
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\TankGaugeManagement.runtimeconfig.dev.json
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\TankGaugeManagement.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\TankGaugeManagement.pdb
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\System.IO.Ports.Native.so
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\System.IO.Ports.Native.so
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\bin\Debug\netcoreapp3.1\TankGaugeProtocol.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.csprojAssemblyReference.cache
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.AssemblyInfoInputs.cache
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.AssemblyInfo.cs
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.csproj.CopyComplete
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.dll
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.pdb
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.csproj.CoreCompileInputs.cache
+D:\PTT Digital\Program\PTTDIGITAL-LAVENDER-TANKGUAGE\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.genruntimeconfig.cache
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\TankGaugeManagement.exe
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Shared\TankGaugeProtocol.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\ConnString.json
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\TankGaugeManagement.deps.json
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\TankGaugeManagement.runtimeconfig.json
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\TankGaugeManagement.runtimeconfig.dev.json
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\TankGaugeManagement.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\TankGaugeManagement.pdb
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\System.IO.Ports.Native.so
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\System.IO.Ports.Native.so
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\TankGaugeProtocol.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.csproj.AssemblyReference.cache
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.AssemblyInfoInputs.cache
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.AssemblyInfo.cs
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.csproj.CoreCompileInputs.cache
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.csproj.CopyComplete
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.dll
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.pdb
+D:\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.genruntimeconfig.cache
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\TankGaugeManagement.exe
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Shared\TankGaugeProtocol.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\ConnString.json
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\TankGaugeManagement.deps.json
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\TankGaugeManagement.runtimeconfig.json
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\TankGaugeManagement.runtimeconfig.dev.json
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\TankGaugeManagement.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\TankGaugeManagement.pdb
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\System.IO.Ports.Native.so
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\System.IO.Ports.Native.so
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\TankGaugeProtocol.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.csproj.AssemblyReference.cache
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.AssemblyInfoInputs.cache
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.AssemblyInfo.cs
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.csproj.CoreCompileInputs.cache
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.csproj.CopyComplete
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.dll
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.pdb
+C:\Users\Aof\Desktop\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.genruntimeconfig.cache
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\TankGaugeManagement.exe
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Shared\TankGaugeProtocol.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\ConnString.json
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\TankGaugeManagement.deps.json
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\TankGaugeManagement.runtimeconfig.json
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\TankGaugeManagement.runtimeconfig.dev.json
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\TankGaugeManagement.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\TankGaugeManagement.pdb
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\System.IO.Ports.Native.so
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\System.IO.Ports.Native.so
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\bin\Debug\netcoreapp3.1\TankGaugeProtocol.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.csproj.AssemblyReference.cache
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.AssemblyInfoInputs.cache
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.AssemblyInfo.cs
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.csproj.CoreCompileInputs.cache
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.csproj.CopyComplete
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.dll
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.pdb
+D:\BackUp\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\TankGaugeManagement\obj\Debug\netcoreapp3.1\TankGaugeManagement.genruntimeconfig.cache

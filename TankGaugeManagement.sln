@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TankGaugeManagement", "TankGaugeManagement\TankGaugeManagement.csproj", "{DDD20D30-E855-4A6A-94EA-772750EA7F50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TankGaugeProtocol", "TankGaugeProtocol\TankGaugeProtocol.csproj", "{AC27EC90-59C3-417D-A3E4-78D633B7A971}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDD20D30-E855-4A6A-94EA-772750EA7F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD20D30-E855-4A6A-94EA-772750EA7F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD20D30-E855-4A6A-94EA-772750EA7F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD20D30-E855-4A6A-94EA-772750EA7F50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC27EC90-59C3-417D-A3E4-78D633B7A971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC27EC90-59C3-417D-A3E4-78D633B7A971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC27EC90-59C3-417D-A3E4-78D633B7A971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC27EC90-59C3-417D-A3E4-78D633B7A971}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B254C20-E8D5-4481-A72C-881ABF817BC9}
+	EndGlobalSection
+EndGlobal

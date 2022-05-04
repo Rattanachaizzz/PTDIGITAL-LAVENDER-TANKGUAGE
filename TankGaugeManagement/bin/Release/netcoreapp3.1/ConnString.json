@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "target": "es5"
+  },
+  "exclude": [
+    "node_modules",
+    "wwwroot"
+  ],
+  "ConnectionStrings": {
+    "ReleaseConnection": "User ID=lav_tankgauge_app;Password=GCb7JA+W6Hg?4=Vf;Host=10.195.2.110;Port=5432;Database=LAVENDERDB;Pooling=true;",
+    "DebugConnection": "User ID=postgres;Password=\"gdH[,yogvkw;hg]pmyh'fvdw,h\";Host=localhost;Port=5432;Database=LAVENDERDB;Pooling=true;"
+  }
+}

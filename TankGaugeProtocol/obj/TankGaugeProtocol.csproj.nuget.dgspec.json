@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\BackUp\\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\\TankGaugeProtocol\\TankGaugeProtocol.csproj": {}
+  },
+  "projects": {
+    "D:\\BackUp\\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\\TankGaugeProtocol\\TankGaugeProtocol.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BackUp\\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\\TankGaugeProtocol\\TankGaugeProtocol.csproj",
+        "projectName": "TankGaugeProtocol",
+        "projectPath": "D:\\BackUp\\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\\TankGaugeProtocol\\TankGaugeProtocol.csproj",
+        "packagesPath": "C:\\Users\\Aof\\.nuget\\packages\\",
+        "outputPath": "D:\\BackUp\\PTTDIGITAL-LAVENDER-TANKGUAGE-phase1-1a65d1a60e7d843f80b6d33eb32d1bd9d4823d44\\TankGaugeProtocol\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Aof\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.IO.Ports": {
+              "target": "Package",
+              "version": "[4.6.0-preview7.19362.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
